@@ -1,6 +1,6 @@
 # SecurityGHD
-Cybersecurity History and Groundhog Day
-<p>From my talk about Cybersecurity Groundhog Day where I cover security past, present, and future.</p>
+<strong>Cybersecurity History and Groundhog Day</strong>
+<p>From my talk about Cybersecurity Groundhog Day where I cover security past, present, and future. (See PDF above)</p>
 <ul>
   <li><i>History of AI</i>, https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/</li>
   <li>Cliff Stoll, <i>(Still) Stalking the Wily Hacker</i>, https://www.youtube.com/watch?v=1h7rLHNXio8</li>
